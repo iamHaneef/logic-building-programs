@@ -1,25 +1,25 @@
-# 🧠 Logic Building Programs
+# Logic Building Programs
 
-A collection of **basic programming practice problems** implemented in **Java**, designed to strengthen problem-solving and coding fundamentals.
+A collection of basic programming problems implemented in Java to strengthen problem-solving skills and core coding fundamentals.
 
 ---
 
 ## 📘 Overview
 
-This repository contains small but essential programs covering:
+This repository includes small programs focused on:
 
 - Mathematical problems  
-- String manipulations  
+- String manipulation  
 - Number operations  
-- Logical challenges  
+- Logical problem-solving  
 
-These exercises are perfect for beginners, interview preparation, and improving coding logic.
+These exercises are useful for beginners and interview preparation.
 
 ---
 
-## 🧩 Topics Covered
+## Topics Covered
 
-### 🔢 Numbers & Math
+### Numbers & Math
 - Factorial  
 - Fibonacci Series  
 - Largest Number  
@@ -29,27 +29,15 @@ These exercises are perfect for beginners, interview preparation, and improving 
 - Sum of Digits  
 - Permutation  
 
-### 🔤 Strings & Characters
+### Strings & Characters
 - Reverse String  
-- Count Number of Vowels  
+- Count Vowels  
 - Palindrome Check  
 
 ---
 
-## 🎯 Purpose
-- Strengthen coding logic and problem-solving skills  
-- Quick revision for interviews  
-- Build a foundation for advanced programming and DSA  
+## Purpose
 
----
-
-Handled By :
-
-🪶 Developer
-
-Muhamad Haneef J
-Student | Java Developer | Full Stack Developer
-📍 Government College of Technology, Coimbatore.
-
-<img width="800" height="200" alt="J Muhamad haneef" src="https://github.com/user-attachments/assets/146a1b4a-0a04-4aec-aa4f-7b7901f7ff00" />
-
+- Improve logical thinking and coding skills  
+- Practice common interview problems  
+- Build a strong programming foundation  
