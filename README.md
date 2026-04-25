@@ -1,23 +1,12 @@
 # Logic Building Programs
 
+## 📌 Overview
+
 A collection of basic programming problems implemented in Java to strengthen problem-solving skills and core coding fundamentals.
 
 ---
 
-## 📘 Overview
-
-This repository includes small programs focused on:
-
-- Mathematical problems  
-- String manipulation  
-- Number operations  
-- Logical problem-solving  
-
-These exercises are useful for beginners and interview preparation.
-
----
-
-## Topics Covered
+## ⚡ Topics Covered
 
 ### Numbers & Math
 - Factorial  
@@ -36,8 +25,23 @@ These exercises are useful for beginners and interview preparation.
 
 ---
 
-## Purpose
+## 🛠️ Tech Stack
 
-- Improve logical thinking and coding skills  
-- Practice common interview problems  
-- Build a strong programming foundation  
+- Java  
+
+---
+
+## 📂 Project Structure
+
+```bash
+logic-building-programs/
+│
+├── (multiple problem files)
+└── README.md
+```
+
+---
+
+## 🚀 How to Run
+
+> Compile and run Java programs using `javac` and `java`.
